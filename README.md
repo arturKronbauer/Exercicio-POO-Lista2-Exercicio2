@@ -1,4 +1,4 @@
-# Exercicios-LPII-Lista1-Exercicio2
+# Exercicio-POO-Lista2-Exercicio2
 Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal.
 
 Exemplo de Interação:
